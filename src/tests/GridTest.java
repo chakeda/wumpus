@@ -7,6 +7,8 @@ import org.junit.Test;
 import model.Grid;
 
 public class GridTest {
+	
+	// change!
 
 	// test Wumpus and Blood code
 	@Test
